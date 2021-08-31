@@ -1,6 +1,6 @@
 {
   "name": "fsres-simple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simpler interface to loading resources from disk through a caching mechanism.",
   "main": "index.js",
   "repository": {
