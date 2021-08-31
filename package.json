@@ -1,0 +1,26 @@
+{
+  "name": "fsres-simple",
+  "version": "1.0.0",
+  "description": "A simpler interface to loading resources from disk through a caching mechanism.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zinzan-vdm/fsres-simple.git"
+  },
+  "keywords": [
+    "fs",
+    "fsres"
+  ],
+  "author": "Zinzan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zinzan-vdm/fsres-simple/issues"
+  },
+  "homepage": "https://github.com/zinzan-vdm/fsres-simple#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.3.2"
+  }
+}
