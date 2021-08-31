@@ -24,6 +24,6 @@
     "prettier": "^2.3.2"
   },
   "dependencies": {
-    "fs-simple": "^1.0.0"
+    "fs-simple": "^1.0.1"
   }
 }
